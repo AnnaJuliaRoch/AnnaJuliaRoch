@@ -1,0 +1,4 @@
+- 👋 Ola meu nome é @AnnaJuliaRoch
+- 👀 meu gmail de contato é a anna.julia.rocha@escola.pr.gov.br
+- 🌱 Eu estou enteressado em aprender a programar novas linquagens.
+- 💞️ Eu estou aprendendo a programar recentemente a linquagem de JavaScript e Scratch
